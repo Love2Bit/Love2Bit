@@ -21,6 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=love2bit&show_icons=true&locale=en&layout=compact" alt="love2bit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=love2bit&show_icons=true&locale=en" alt="love2bit" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=love2bit&" alt="love2bit" /></p>
