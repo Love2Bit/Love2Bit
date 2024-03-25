@@ -1,4 +1,4 @@
-[![MasterHead](https://giphy.com/gifs/2O1CFcAOnaOfNaPpXt)]
+[![MasterHead](https://giphy.com/gifs/2O1CFcAOnaOfNaPpXt)
 <h1 align="center">Hi 👋, I'm Ao</h1>
 <h3 align="center">A passionate Website Developer</h3>
 
